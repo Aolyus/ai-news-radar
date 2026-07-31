@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T16:53:41.395862Z",
+  "generated_at": "2026-07-31T16:55:50.743593Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-07-31",
-  "count_today": 3,
+  "count_today": 4,
   "updates_today": [
     {
       "date": "2026-07-31",
@@ -24,9 +24,15 @@
       "title": "【即梦】Seedance 2.5 使用手册",
       "summary": "大家期待已久的即梦 Seedance 2.5 视频模型现已全量上线，相较上一代在视频能力、参考能力与画面效果三方面均有显著升级。快来体验一下真实效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/PXmgwhty9i4LRak2yLIcidpZnle?from=from_copylink"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "DeepSeek-V4-Flash正式版发布",
+      "summary": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/ASq9wOUDeiF8yWkoCcncbEJHnpf?from=from_copylink"
     }
   ],
-  "count_7d": 39,
+  "count_7d": 40,
   "updates_7d": [
     {
       "date": "2026-07-31",
@@ -45,6 +51,12 @@
       "title": "【即梦】Seedance 2.5 使用手册",
       "summary": "大家期待已久的即梦 Seedance 2.5 视频模型现已全量上线，相较上一代在视频能力、参考能力与画面效果三方面均有显著升级。快来体验一下真实效果如何！",
       "url": "https://waytoagi.feishu.cn/wiki/PXmgwhty9i4LRak2yLIcidpZnle?from=from_copylink"
+    },
+    {
+      "date": "2026-07-31",
+      "title": "DeepSeek-V4-Flash正式版发布",
+      "summary": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+      "url": "https://waytoagi.feishu.cn/wiki/ASq9wOUDeiF8yWkoCcncbEJHnpf?from=from_copylink"
     },
     {
       "date": "2026-07-30",
