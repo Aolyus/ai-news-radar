@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:28:01.055181Z",
+  "generated_at": "2026-08-02T17:16:27.252060Z",
   "window_hours": 24,
   "total_items": 10,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T15:28:01.055181Z",
-      "latest_at": "2026-08-02T15:28:01.055181Z",
+      "earliest_at": "2026-08-02T17:16:27.252060Z",
+      "latest_at": "2026-08-02T17:16:27.252060Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "破坏刑事诈骗行动 / Disrupting a Criminal Scam Operation",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8547,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8465,
+        "recency": 0.8247,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -471,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -548,15 +548,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8895,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -581,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5037,
+      "importance": 0.5037,
+      "importance_score": 0.5037,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7866,
+        "recency": 0.7663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,7 +691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -717,7 +717,7 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
           "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -725,15 +725,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
@@ -752,7 +752,7 @@
           "published_at": "2026-08-02T11:23:25.394000Z"
         },
         {
-          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
           "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_zh": "人工智能：Ars Notoria 和即时知识的承诺",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
@@ -760,23 +760,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://publicdomainreview.org/essay/ars-notoria",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T10:18:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9428,
+        "recency": 0.9185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -878,15 +878,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8465,
+        "recency": 0.8247,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -988,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.7561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     },
     {
@@ -1098,15 +1098,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7649,
+        "recency": 0.7452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,10 +1128,10 @@
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-02T15:29:00.883492Z"
+        "scored_at": "2026-08-02T17:18:29.885933Z"
       }
     }
   ]
