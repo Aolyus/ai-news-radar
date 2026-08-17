@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T11:42:10.397069Z",
+  "generated_at": "2026-08-17T13:06:26.654120Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9479,
+        "recency": 0.9289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8851,
+        "recency": 0.8673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -377,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -459,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -493,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -541,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -623,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -657,7 +657,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
+      }
+    },
+    {
+      "story_id": "story_af54f92163bc",
+      "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T10:57:13Z"
+        },
+        {
+          "id": "7496fe78bb23935a420d21bbf52934a97a65e42b",
+          "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+          "title_en": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "title_original": "Anthropic explains how Claude’s invisible text watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-17T10:57:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6349,
+      "importance": 0.6349,
+      "importance_score": 0.6349,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9694,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T10:57:13Z",
+      "latest_at": "2026-08-17T10:57:13Z",
+      "primary_item": {
+        "id": "e4a1fa384e7dfe47c175c93347eded816acc40c2",
+        "title": "Anthropic 解释了Claude的隐形文本水印的工作原理 / Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_zh": "Anthropic 解释了Claude的隐形文本水印的工作原理",
+        "title_en": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "title_original": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -705,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -787,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -821,7 +930,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -869,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -903,7 +1012,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1009,15 +1118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8688,
+        "recency": 0.8514,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1042,7 +1151,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1119,15 +1228,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.998,
+        "recency": 0.978,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1152,7 +1261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1258,15 +1367,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8457,
+        "recency": 0.8288,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1291,7 +1400,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1397,15 +1506,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.836,
+        "recency": 0.8192,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,7 +1539,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1536,15 +1645,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8305,
+        "recency": 0.8139,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1569,7 +1678,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1646,15 +1755,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9571,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1679,7 +1788,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1785,15 +1894,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7682,
+        "recency": 0.7528,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1818,7 +1927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     },
     {
@@ -1895,15 +2004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8892,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1928,89 +2037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
-      }
-    },
-    {
-      "story_id": "story_16a84261d17f",
-      "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-      "url": "https://www.aibase.com/news/30402",
-      "primary_url": "https://www.aibase.com/news/30402",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:31.251796Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-          "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "title_en": null,
-          "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30402",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:01:31.251796Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9621,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T09:01:31.251796Z",
-      "latest_at": "2026-08-17T09:01:31.251796Z",
-      "primary_item": {
-        "id": "023ee7aeaae0d9c87c225ebe661f4cbbe29260b5",
-        "title": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_zh": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "title_en": null,
-        "title_original": "豆包“工作任务”功能上新:手机可远程操控电脑，跨设备办公再无边界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30402",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-17T11:42:47.222415Z"
+        "scored_at": "2026-08-17T13:07:11.604830Z"
       }
     }
   ]
